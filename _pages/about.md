@@ -113,4 +113,4 @@ Zhen Chen; Yingying Xing*; Kexin Fang; **Hong Lang**; YiChuan Peng; Hongwei Wang
 - *2023* Shanghai Highway & Transportation Society, Member
 
 # 🐾 Visitor Map
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=W-ssUQRP57r9S9FGscOMo9WP8W7Gr9lafq3GkW7y4XM"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=dmeaCNOYh5_-9OXyurX3o0KHtzbB61-K6NVXU60pbNU&cl=ffffff&w=a"></script>
