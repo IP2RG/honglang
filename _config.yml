@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jin Li"
-description              : # "Welcome to Jin Li's academic homepage"
-repository               : "lijin0222/lijin0222.github.io"
+title                    : "Hong Lang"
+description              : # "Welcome to Hong Lang's academic homepage"
+repository               : "https://ip2rg.github.io/honglang/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,31 +21,31 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jin Li (李进)"
+  name             : "Hong Lang (郎洪)"
   avatar           : "images/profile_image.jpg"
-  bio              : "Postdoc at PolyU (HK), PhD in Transportation at Tongji"
-  location         : "Kowloon, Hong Kong"
-  employer         : "The Hong Kong Polytechnic University"
+  bio              : "Postdoc at UIUC, PhD in Transportation at Tongji"
+  location         : "Illinois, USA"
+  employer         : "University of Illinois Urbana-Champaign"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7axMkuEAAAAJ"
-  email            : "jin-jl.li@polyu.edu.hk"
+  googlescholar    : "https://scholar.google.com/citations?user=hq_bKtQAAAAJ&hl=en&oi=ao"
+  email            : "honglang@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://ict.illinois.edu/about/directory/hong-lang"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "lijin0222"
+  github           : "https://github.com/IP2RG"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jin-li-611704162"
+  linkedin         : "https://www.linkedin.com/in/hong-lang-5670882a8/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-1015-5797"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
