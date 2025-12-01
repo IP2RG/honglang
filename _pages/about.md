@@ -81,7 +81,7 @@ Zhen Chen; Yingying Xing; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
-- *2024.07 - Present*, Postdoctoral Research Associate (Supervisor: [Prof. Imad L. Al-Qadi](https://www.polyu.edu.hk/cee/people/academic-staff/prof-yuhong-wang/?sc_lang=en)), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Illinois, USA.
+- *2024.07 - Present*, Postdoctoral Research Associate (Supervisor: [Prof. Imad L. Al-Qadi](https://cee.illinois.edu/directory/profile/alqadi)), [University of Illinois Urbana-Champaign](https://illinois.edu/), Illinois, USA.
 - *2023.03 - 2024.07*, Research Associate Professor (Transportation Research Institute, [Tongji University](https://en.tongji.edu.cn), Shanghai, China.
 - *2021.10 - 2024.07*, Postdoctoral Research Associate (Supervisor: [Jian John Lu](https://tjjt.tongji.edu.cn/szdw1/jsml2/zhjtxxykzgcx1/lj.htm)), [Tongji University](https://en.tongji.edu.cn), Shanghai, China.
 - *2021.10 - 2024.07*, Senior Research Scientist, [Shanghai PRES Road Traffic Technology Co., Ltd](http://www.shanghai-pres.com/), Shanghai, China.
