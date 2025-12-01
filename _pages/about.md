@@ -19,7 +19,7 @@ redirect_from:
 
 你好 (Nǐ hǎo), Hello, Hola, Bonjour, Hallo, こんにちは, 안녕하세요, مرحباً, Ciao, Привет.
 
-I am currently a postdoctoral research fellow at the [Department of Civil and Environmental Engineering](https://cee.illinois.edu/) and [Illinois Center for Transportation](https://ict.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), while closely collaborating with the [Illinois Department of Transportation (IDOT)](https://idot.illinois.gov/). I was a research associate professor at the [Transportation Research Institute](https://trit.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn).
+I am currently a postdoctoral research associate at the [Department of Civil and Environmental Engineering](https://cee.illinois.edu/) and [Illinois Center for Transportation](https://ict.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), while closely collaborating with the [Illinois Department of Transportation (IDOT)](https://idot.illinois.gov/). I was a research associate professor/postodoctoral research fellow at the [Transportation Research Institute](https://trit.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn).
 
 I obtained both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort.
 
@@ -27,81 +27,21 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
+- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Internal Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
 
 **2025**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Fuels</div><img src='images/ef_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Internal Journal of Pavement Engineering</div><img src='images/ef_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improved Asphalt Binder Performance Grading Using Surrogate FTIR Data and Gradient Boosting](https://pubs.acs.org/doi/10.1021/acs.energyfuels.5c04177)
+[Automated Image-level Pavement Type Recognition on Cross-regional Data Using a Multi-feature Fusion Network](https://doi.org/10.1080/10298436.2025.2569612)
 
-Xiaoyan Wang, Jie Ma, Wentao He, **Jin Li***, Zeyu Ma
-
-**Topic**
-- Infrastructure Intelligent Operation
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computer-Aided Civil and Infrastructure Engineering</div><img src='images/CACAIE_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A streamlined approach for probabilistic pavement life-cycle performance prediction via physics-informed neural networks](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040)
-
-**Jin Li**, Wentao He, Huailei Cheng, Haopeng Wang*
+**Hong Lang**; Zhen Chen*; JinSong Qian*; Aidi Wang; Yichuan Peng; Hao Du
 
 **Topic**
-- Infrastructure Intelligent Operation
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Journal of Highway and Transport</div><img src='images/CJHT_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Compatibility Evaluation of Pretreated Crumb Rubber-Asphalt System under Supercritical Fluid Induction](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014)
-
-**Jin Li**, Jiayu Wang, Feipeng Xiao*
-
-**Topic**
-- Infrastructure Sustainable Construction
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Wireless Power Technology Conference and Expo (WPTCE)</div><img src='images/WPTCE_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components](https://ieeexplore.ieee.org/abstract/document/11062229)
-
-Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
-
-**Topic**
-- Infrastructure Adaptive Renewal
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Materials Informatics</div><img src='images/JMI_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Exploring generic fractions of multi-origin asphalts and revisiting the linkage to their bulk properties via machine learning](https://www.oaepublish.com/articles/jmi.2025.14)
-
-**Jin Li**, Jie Ma, Jie Wu*, Wentao He**, Qian Xiang, Jianmin Ma, Mingjun Hu
-
-**Topic**
-- Infrastructure Intelligent Operation
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transportation Research Record</div><img src='images/TRR_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques](https://journals.sagepub.com/doi/10.1177/03611981251341325)
-
-**Jin Li**, Pablo Orosa, Cheng Zhang, Oscar Andres Moncada, Seonghwan Cho*, Bongsuk Park, John E. Haddock
-
-**Topic**
-- Infrastructure Intelligent Operation
+- Multi-Modal Sensing and Field Experimentation
 </div>
 </div>
 
@@ -109,72 +49,68 @@ Oscar Andrés Moncada, **Jin Li***, Pablo Orosa, John E. Haddock
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/RCR1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Prospective LCA of valorizing ELTs in asphalt mixtures with emerging pretreatment technologies of crumb rubber](https://www.sciencedirect.com/science/article/pii/S092134492400421X)
+[Exploring the Impact of Extreme Weather on Urban Road Network Based on Percolation Theory](https://www.sciencedirect.com/science/article/pii/S092134492400421X)
 
-**Jin Li**, Joao Santos*, Andrea Vargas-Farias, Daniel Castro-Fresno, Feipeng Xiao**
-
-**Topic**
-- Infrastructure Sustainable Construction
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Transp. Sci. Technol.</div><img src='images/IJTST1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Machine learning-based climate zoning and asphalt selection for pavement infrastructure under changing climate: A focused study of Ningxia, China](https://www.sciencedirect.com/science/article/pii/S2046043024001229)
-
-Feipeng Xiao, Zhitao Zhang, Zichao Wu, Wentao He*, **Jin Li****
+Zhen Chen; Yingying Xing; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 
 **Topic**
-- Infrastructure Adaptive Renewal
+- CAV Readiness and Climate-Resilient Infrastructure
 </div>
 </div>
 
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
-**2025**
-- *2025.11*, Simulation-Based Mechanical Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Technology, [ASPIRE Annual Meeting & Technology Showcase](https://aspire.usu.edu/25-annual-meeting/), Logan, Utah, USA.
-- *2025.11*, Compatibilization and decarbonization of asphalt-rubber system induced by supercritical fluid, [Youth Forum on Road and Airport Engineering Research](https://mp.weixin.qq.com/s/Y_LSmyHsd3AP5YVObhKClQ), Wuhan, Hubei, China.
-- *2025.07*, Pavement roughness prediction with ensemble learning: Insights from the Netherlands, [3rd International Symposium on Pavement Functional Design and Management (PFDM 2025)](https://www.pfdm2025.com), Delft, the Netherlands.
-- *2025.06*, Structural Modeling and Assessment of Rigid Pavement with Embedded Dynamic Wireless Power Transfer Components, [IEEE Wireless Power Technology Conference and Expo (WPTCE 2025)](https://ieee-wptce.org), Rome, Italy.
-- *2025.01*, A Survey of Data-Driven Construction Materials Price Forecasting, [The Transportation Research Board (TRB) 104th Annual Meeting](https://trb-annual-meeting.nationalacademies.org), Washington D.C., USA.
+**2026**
+- *2026.01*, Coarse‑to‑refined Road Alignment Extraction and Parameterization from MLS Point Clouds, [TRB 105th Annual Meeting of the Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/), Washington, D.C., USA.
+- *2026.01*, Hot‑Mix Asphalt Cracking Potential Prediction from Binder Rheological Parameters, [TRB 105th Annual Meeting of the Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/), Washington, D.C., USA.
 
-**2024**
-- *2024.09*, Enhanced Temperature Gradient Prediction for Asphalt Layers in Full-Depth Asphalt and Composite Pavement Using Machine Learning Techniques, [33rd FWD User Group (FWDUG) Meeting](http://fwdug.org), Fort Worth, Texas, USA.
-- *2024.03*, Bridging data gap of emerging technology with proxy: A probabilistic LCA of innovative pavement materials, [Data Science for Pavements Symposium (DSPS 2024)](https://pavementdatascience.com), McLean, Virginia, USA.
+**2025**
+- *2025.06*, Efficient Prediction of Asphalt Concrete Mix Design Based on Performance Tests, [ASCE International Airfield & High‑way Pavements Conference](https://www.asce.org/education-and-events/events/meetings/ictd-pavements-2025), Glendale, AZ, USA.
+- *2025.04*, SCRIM Friction Number Prediction Using Decision Tree Algorithms, [Annual Road Profile Users’ Group (RPUG) Conference](https://rpug.org/meetings/rpug-2025-conference/), DALLAS, TX, USA.
+- *2025.01*, Aviation Accident Report Causality Extraction Based on Transformer with BERT‑emdeddings, [TRB 104th Annual Meeting of the Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/), Washington, D.C., USA.
+
+**2023**
+- *2023.07*, 5th Big Data and Intelligent Highway Maintenance Forum: Applications of Next‑Generation AI in Highway Precision Inspection and Decision‑Making, [China Highway & Transportation Society](https://www.chts.cn/English5528/index.html), Xian, China.
+
+**2022**
+- *2022.09*, Smart Pavement: An Attention‑Based Classification Model for Road Pavement Material, [5th KES International Symposium on Smart Transportation Systems](https://link.springer.com/book/10.1007/978-981-19-2813-0), Remote.
+
+**2021**
+- *2021.11*, 4th Big Data and Intelligent Highway Maintenance Forum: AI‑Based 3D Pavement Inspection Technology and Applications, [China Highway & Transportation Society](https://www.chts.cn/English5528/index.html), Guiyang, China.
+- *2021.06*, Development and Application of Pavement Inspection Technologies, [Security & Privacy Seminar (World Transport Convention)](https://en.wtc-conference.com/), Xian, China.
 
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
-- *2025.06 - Present*, Postdoctoral Fellow (Supervisor: [Prof. Yuhong Wang](https://www.polyu.edu.hk/cee/people/academic-staff/prof-yuhong-wang/?sc_lang=en)), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Hong Kong
-- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: [Prof. John E. Haddock](https://engineering.purdue.edu/CCE/People/ptProfile?resource_id=2045)), [Purdue University](https://www.purdue.edu), the United States
-- *2024.04 - 2025.05*, Postdoctoral Research Associate (Supervisor: Dr. Seonghwan Cho), [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/), the United States
-- *2017.09 - 2017.12*, Student Intern, [Shenzhen Communications Design & Research Institute](https://www.ctdri.com/), China
+- *2024.07 - Present*, Postdoctoral Research Associate (Supervisor: [Prof. Imad L. Al-Qadi](https://www.polyu.edu.hk/cee/people/academic-staff/prof-yuhong-wang/?sc_lang=en)), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/), Illinois, USA.
+- *2023.03 - 2024.07*, Research Associate Professor (Transportation Research Institute, [Tongji University](https://en.tongji.edu.cn), Shanghai, China.
+- *2021.10 - 2024.07*, Postdoctoral Research Associate (Supervisor: [Jian John Lu](https://tjjt.tongji.edu.cn/szdw1/jsml2/zhjtxxykzgcx1/lj.htm)), [Tongji University](https://en.tongji.edu.cn), Shanghai, China.
+- *2021.10 - 2024.07*, Senior Research Scientist, [Shanghai PRES Road Traffic Technology Co., Ltd](http://www.shanghai-pres.com/), Shanghai, China.
+- *2017.01 - 2021.01*, Research Scientist, [Shanghai PRES Road Traffic Technology Co., Ltd](http://www.shanghai-pres.com/), Shanghai, China.
 
 <span class='anchor' id='-education-background'></span>
 # 📖 Education Background
-- *2020.03 - 2023.12*, Ph.D. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
-- *2022.12 - 2023.11*, Visiting Ph.D. (Supervisor: [Prof. João Santos](https://people.utwente.nl/j.m.oliveiradossantos?tab=overview)), [University of Twente](https://www.utwente.nl/en/), the Netherlands
-- *2018.09 - 2020.02*, M.S. (Supervisor: [Prof. Feipeng Xiao](https://tjjt.tongji.edu.cn/info/3027/9634.htm)), [Tongji University](https://en.tongji.edu.cn), China
-- *2014.09 - 2018.07*, B.E., [Tongji University](https://en.tongji.edu.cn), China
+- *2016.09 - 2021.06*, Ph.D., Transportation Engineering (Supervisor: [Prof. Jian John Lu](https://tjjt.tongji.edu.cn/szdw1/jsml2/zhjtxxykzgcx1/lj.htm)), [Tongji University](https://en.tongji.edu.cn), Shanghai, China
+- *2022.12 - 2023.11*, Visiting Scholar, Information Science. ([School of Information Science](https://ischool.illinois.edu/)), [University of Illinois Urbana-Champaign](https://illinois.edu/), Illinois, USA
+- *2014.09 - 2018.07*, B.E., Measurement and Control Technology & Instrument. [Tianjin University of Science & Technology](https://en.tust.edu.cn/), Tianjin, China
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
-- *2022* National Scholarship
-- *2021* National Scholarship
-- *2021* Science & Technology Progress Award of Shanghai Society of Civil Engineering
-- *2021* [WANG Binggang](https://news.sciencenet.cn/htmlnews/2021/4/456446.shtm) Scholarship
-- *2019* National Scholarship
-- *2018* University Graduate Excellence Award of Shanghai
-- *2017* [YANG Peikun](https://tjjt.tongji.edu.cn/info/1101/3112.htm) Scholarship
-- *2016* National Scholarship
+- *2025* Scholarship and Teaching for Engineering Postdocs (STEP), Grainger College of Engineering, University of Illinois Urbana‑Champaign
+- *2024* First Prize, Shanghai Institute Traffic Engineering Science and Technology, Driving Behavior Spectrum Theory and Intelligent Risky Driving Identification under Full‑Road Perception
+- *2023* Best Paper Award, 2nd China Highway & Transportation Society (CHTS) Smart Transportation Annual Conference
+- *2022* Two Paper Awards (Technical Innovation & Technology Exploration), 12th Annual Conference on Highway Maintenance and Management, CHTS
+- *2021* Two Paper Awards (Technical Innovation & Technology Exploration), 11th Annual Conference on Highway Maintenance and Management, CHTS
+- *2021* Outstanding Graduate, Tongji University
+- *2019* First Prize (6th National Ranking), China Graduate Mathematical Modeling Competition
+- *2018* Second Prize, China Graduate Mathematical Modeling Competition
 
 <span class='anchor' id='-professional-services'></span>
 # 🛣️ Professional Services
-- **Editorial Board**: [Journal of Materials Informatics](https://www.oaepublish.com/jmi); [Carbon Footprints](https://www.oaepublish.com/cf)
-- **Guest Editor**: Materials (Special issue: [Materials Informatics and Machine Learning in Pavement Engineering](https://www.mdpi.com/journal/materials/special_issues/4XRI671W5O)); Infrastructures (Special issue #1: [Pavement Performance and Maintenance: Smart Technologies and Sustainable Practices](https://www.mdpi.com/journal/infrastructures/special_issues/JE4CD0DC9T); Special issue #2: [Innovations in Asphalt Materials for Pavement](https://www.mdpi.com/journal/infrastructures/special_issues/409QTDFIPH))
-- **Journal Reviewer (Selected)**: Resources, Conservation and Recycling; Transportation Research Record; Journal of Environmental Planning and Management; International Journal of Pavement Research and Technology; Journal of Materials in Civil Engineering; Fuel; Theoretical and Applied Fracture Mechanics; Structural Durability & Health Monitoring
-- **Membership**: [International Society of Industrial Ecology](https://www.is4ie.org) (Member); [American Society of Civil Engineers](https://www.asce.org) (Member); [Shanghai Society of Traffic Engineering](https://www.shjtgcxh.com/odbc/b3249/l1.asp?cny=404)
-- **Mentor**: [Oscar Andres Moncada](https://scholar.google.com/citations?user=-WmbOlIAAAAJ&hl=en&oi=ao) (PhD student at Purdue University); [Wentao He](https://www.scopus.com/authid/detail.uri?authorId=57982903100), [Xin Xiao](https://scholar.google.com/citations?user=9DyFXg4AAAAJ&hl=en&oi=sra) & Zizhuang Yang (PhD students at Tongji University) [Abdulrahman Badughaish](https://scholar.google.com/citations?user=5YGBS6IAAAAJ&hl=en), Linjie Zhu & Chenyu Wang (Master students at Tongji University)
+- *2025* Visiting Research Scientist Search Committee, CEE, UIUC, Committee Member
+- *2024* Visiting Research Scientist Search Committee, CEE, UIUC, Committee Member
+- *2024* Journal of Transport Information and Safety, Associate Editor
+- *2024* China Highway & Transportation Society, Expert Committee
+- *2023* Shanghai Highway & Transportation Society, Member
 
 # 🐾 Visitor Map
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tMl7ri3Q2RqfJWNCZtcnS59LlFoNCK1puzjt-BhZgk4&cl=ffffff&w=a"></script>
