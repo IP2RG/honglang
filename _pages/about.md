@@ -27,31 +27,32 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 TRBAM-26-02766（Lecture）will be presented at *Insights from LiDAR: Applications for Infrastructure Assessment*, Mon, Jan 12, 2026, 1:30–3:15 PM (ET), Room 202A, Convention Center, Washington, DC, USA.
-- *2025.10*: &nbsp;🎉🎉 TRBAM-26-02571 (Lecture) will be presented at *Implementation-Focused Research on Asphalt Materials*, Tue, Jan 13, 2026, 4:00–5:45 PM (ET), Salon AB, Convention Center, Washington, DC, USA.
-- *2025.10*: &nbsp;🎉🎉 TRBAM-26-01331 (Poster) will be presented at *Pavement Functional Condition Evaluation and Modeling*, Wed, Jan 14, 2026, 4:00–5:45 PM (ET), Hall A, Convention Center, Washington, DC, USA.
-- *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Internal Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
-- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Construction and Building Materials](https://www.sciencedirect.com/journal/construction-and-building-materials).
-- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578).
-- *2025.08*: &nbsp;🎉🎉 New extended abstract accepeted by [12th International Conference on Bearing Capacity of Roads, Railways, and Airfields](https://bcrra.si/).
-- *2025.07*: &nbsp;🎉🎉 New paper accepeted by [International Journal of Transportation Science and Technology](https://www.sciencedirect.com/journal/international-journal-of-transportation-science-and-technology).
-- *2025.06*: &nbsp;🎉🎉 New paper accepeted by [ASCE Journal of Computing in Civil Engineering](https://ascelibrary.org/journal/jccee5).
-- *2025.05*: &nbsp;🎉🎉 New paper accepeted by [International Journal of Transportation Science and Technology](https://www.sciencedirect.com/journal/international-journal-of-transportation-science-and-technology).
-- *2025.04*: &nbsp;🎉🎉 New abstract accepeted by [14th Asia-Pacific Conference on Transportation and the Environment](https://www.pavement.org.sg/event-details-registration/14th-asia-pacific-conference-on-transportation-and-the-environment).
-- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportmetrica A: Transport Science](https://www.tandfonline.com/journals/ttra21).
-- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Journal of the Transportation Research Record](https://journals.sagepub.com/home/trr).
-- *2024.12*: &nbsp;🎉🎉 New abstract accepeted by [ASCE International Airfield & Highway Pavements Conference](https://www.asce.org/education-and-events/events/meetings/ictd-pavements-2025).
-- *2024.11*: &nbsp;🎉🎉 New paper accepeted by [ASCE Journal of Transportation Engineering, Part A: Systems](https://ascelibrary.org/journal/jtepbs).
-- *2024.10*: &nbsp;🎉🎉 New paper accepeted by [Sensors](https://www.mdpi.com/journal/sensors).
-- *2024.06*: &nbsp;🎉🎉 New paper accepeted by [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction).
-- *2024.03*: &nbsp;🎉🎉 New paper accepeted by [ASCE Journal of Computing in Civil Engineering](https://ascelibrary.org/journal/jccee5).
-- *2024.02*: &nbsp;🎉🎉 New paper accepeted by [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/document/11024188).
-- *2023.11*: &nbsp;🎉🎉 New paper accepeted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/9942714).
-- *2023.08*: &nbsp;🎉🎉 New paper accepeted by [International Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
-- *2023.04*: &nbsp;🎉🎉 New paper accepeted by [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction).
-- *2022.06*: &nbsp;🎉🎉 New paper accepeted by [Journal of Advanced Transportation](https://onlinelibrary.wiley.com/journal/1409).
-- *2022.02*: &nbsp;🎉🎉 New paper accepeted by [ASCE Journal of Transportation Engineering, Part B: Pavements](https://ascelibrary.org/journal/jpeodx).
-- *2020.09*: &nbsp;🎉🎉 New paper accepeted by [ASCE Journal of Computing in Civil Engineering](https://ascelibrary.org/journal/jccee5).
+- *2025.11*: &nbsp;🌏 TRBAM-26-02766（Lecture）will be presented at *Insights from LiDAR: Applications for Infrastructure Assessment*, Mon, Jan 12, 2026, 1:30–3:15 PM (ET), Room 202A, Convention Center, Washington, DC, USA.
+- *2025.10*: &nbsp;🌏 TRBAM-26-02571 (Lecture) will be presented at *Implementation-Focused Research on Asphalt Materials*, Tue, Jan 13, 2026, 4:00–5:45 PM (ET), Salon AB, Convention Center, Washington, DC, USA.
+- *2025.10*: &nbsp;🌏 TRBAM-26-01331 (Poster) will be presented at *Pavement Functional Condition Evaluation and Modeling*, Wed, Jan 14, 2026, 4:00–5:45 PM (ET), Hall A, Convention Center, Washington, DC, USA.
+- *2025.09*: &nbsp;📃 New paper accepeted by [Internal Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
+- *2025.09*: &nbsp;🎉 I was awarded by Scholarship and Teaching for Engineering Postdocs (STEP)[University of Illinois Urbana-Champaign](https://grainger.illinois.edu/research/postdoc-opportunities/STEP).
+- *2025.08*: &nbsp;📃 New paper accepeted by [Construction and Building Materials](https://www.sciencedirect.com/journal/construction-and-building-materials).
+- *2025.08*: &nbsp;📃 New paper accepeted by [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578).
+- *2025.08*: &nbsp;🌏 New extended abstract accepeted by [12th International Conference on Bearing Capacity of Roads, Railways, and Airfields](https://bcrra.si/).
+- *2025.07*: &nbsp;📃 New paper accepeted by [International Journal of Transportation Science and Technology](https://www.sciencedirect.com/journal/international-journal-of-transportation-science-and-technology).
+- *2025.06*: &nbsp;📃 New paper accepeted by [ASCE Journal of Computing in Civil Engineering](https://ascelibrary.org/journal/jccee5).
+- *2025.05*: &nbsp;📃 New paper accepeted by [International Journal of Transportation Science and Technology](https://www.sciencedirect.com/journal/international-journal-of-transportation-science-and-technology).
+- *2025.04*: &nbsp;🌏 New abstract accepeted by [14th Asia-Pacific Conference on Transportation and the Environment](https://www.pavement.org.sg/event-details-registration/14th-asia-pacific-conference-on-transportation-and-the-environment).
+- *2025.04*: &nbsp;📃 New paper accepeted by [Transportmetrica A: Transport Science](https://www.tandfonline.com/journals/ttra21).
+- *2025.04*: &nbsp;📃 New paper accepeted by [Journal of the Transportation Research Record](https://journals.sagepub.com/home/trr).
+- *2024.12*: &nbsp;🌏 New abstract accepeted by [ASCE International Airfield & Highway Pavements Conference](https://www.asce.org/education-and-events/events/meetings/ictd-pavements-2025).
+- *2024.11*: &nbsp;📃 New paper accepeted by [ASCE Journal of Transportation Engineering, Part A: Systems](https://ascelibrary.org/journal/jtepbs).
+- *2024.10*: &nbsp;📃 New paper accepeted by [Sensors](https://www.mdpi.com/journal/sensors).
+- *2024.06*: &nbsp;📃 New paper accepeted by [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction).
+- *2024.03*: &nbsp;📃 New paper accepeted by [ASCE Journal of Computing in Civil Engineering](https://ascelibrary.org/journal/jccee5).
+- *2024.02*: &nbsp;📃 New paper accepeted by [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/document/11024188).
+- *2023.11*: &nbsp;📃 New paper accepeted by [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/9942714).
+- *2023.08*: &nbsp;📃 New paper accepeted by [International Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
+- *2023.04*: &nbsp;📃 New paper accepeted by [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction).
+- *2022.06*: &nbsp;📃 New paper accepeted by [Journal of Advanced Transportation](https://onlinelibrary.wiley.com/journal/1409).
+- *2022.02*: &nbsp;📃 New paper accepeted by [ASCE Journal of Transportation Engineering, Part B: Pavements](https://ascelibrary.org/journal/jpeodx).
+- *2020.09*: &nbsp;📃 New paper accepeted by [ASCE Journal of Computing in Civil Engineering](https://ascelibrary.org/journal/jccee5).
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
@@ -87,6 +88,7 @@ Zhen Chen; Yingying Xing*; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
 **2026**
+- *2026.06*, Seasonal Load Spectra on Illinois Interstate Highways, [12th International Conference on Bearing Capacity of Roads, Railways, and Airfields](https://bcrra.si/), Ljubljana, Slovenia.
 - *2026.01*, Coarse‑to‑refined Road Alignment Extraction and Parameterization from MLS Point Clouds, [TRB 105th Annual Meeting of the Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/), Washington, D.C., USA.
 - *2026.01*, Hot‑Mix Asphalt Cracking Potential Prediction from Binder Rheological Parameters, [TRB 105th Annual Meeting of the Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/), Washington, D.C., USA.
 
