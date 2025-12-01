@@ -62,7 +62,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 
 [Automated Image-level Pavement Type Recognition on Cross-regional Data Using a Multi-feature Fusion Network](https://doi.org/10.1080/10298436.2025.2569612)
 
-Hong Lang; Zhen Chen*; JinSong Qian*; Aidi Wang; Yichuan Peng; Hao Du
+Hong Lang; Zhen Chen&ast; Jinsong Qian&ast; Aidi Wang; Yichuan Peng; Hao Du
 
 **Topic**
 - Multi-Modal Sensing and Field Experimentation
