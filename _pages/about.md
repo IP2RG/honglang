@@ -19,22 +19,15 @@ redirect_from:
 
 你好 (Nǐ hǎo), Hello, Hola, Bonjour, Hallo, こんにちは, 안녕하세요, مرحباً, Ciao, Привет.
 
-I am currently a postdoctoral fellow at the [Department of Civil and Environmental Engineering](https://www.polyu.edu.hk/cee/) and [Research Centre for Nature-based Urban Infrastructure Solutions](https://www.polyu.edu.hk/cee/~rnus/) at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/). I was a postdoctoral research associate at the [Lyles School of Civil and Construction Engineering](https://engineering.purdue.edu/CCE) at [Purdue University](https://www.purdue.edu), while closely collaborating with the [Indiana Department of Transportation (INDOT)](https://www.in.gov/indot/) on [JTRP](https://engineering.purdue.edu/JTRP) projects.
+I am currently a postdoctoral research fellow at the [Department of Civil and Environmental Engineering](https://cee.illinois.edu/) and [Illinois Center for Transportation](https://ict.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), while closely collaborating with the [Illinois Department of Transportation (IDOT)](https://idot.illinois.gov/). I was a research associate professor at the [Transportation Research Institute](https://trit.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn).
 
-I obtained both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I joined the [Department of Civil Engineering and Management](https://www.utwente.nl/en/et/cem/) at [University of Twente](https://www.utwente.nl/en/) in Enschede, the Netherlands as a visiting PhD student for one year.
+I obtained both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort.
 
-My research focuses on **life-cycle management of transportation infrastructure**, with emphasis on **sustainable construction**, **intelligent operation**, and **adaptive renewal**.
+My research focuses on **Artificial Intelligence for Infrastructure**, with emphasis on **Multi-Modal Sensing and Field Experimentation**, **Physics-Informed ML for Civil Systems**, **AI-driven Decision Support**, and **CAV Readiness and Climate-Resilient Infrastructure**.
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 New paper accepeted by [Energy & Fuels](https://pubs.acs.org/journal/enfuem).
-- *2025.08*: &nbsp;🎉🎉 New paper accepeted by [Computer-Aided Civil and Infrastructure Engineering](https://onlinelibrary.wiley.com/doi/10.1111/mice.70040).
-- *2025.05*: &nbsp;🎉🎉 New paper accepeted by [Journal of Materials Informatics](https://www.oaepublish.com/articles/jmi.2025.14).
-- *2025.04*: &nbsp;🎉🎉 New paper accepeted by [Transportation Research Record](https://journals.sagepub.com/home/trr).
-- *2025.01*: &nbsp;🎉🎉 Selected as a Junior Editorial Board Member for [Journal of Materials Informatics](https://mp.weixin.qq.com/s/80_52X0QWdRHmqiJg0lPMA). 
-- *2025.01*: &nbsp;🎉🎉 Selected as a Founding Youth Editorial Board Member for [Carbon Footprints](https://mp.weixin.qq.com/s/5ZLXq3RJk2tzreAHeXBGeQ).
-- *2024.09*: &nbsp;🎉🎉 New paper accepeted by [China Journal of Highway and Transport](https://zgglxb.chd.edu.cn/CN/10.19721/j.cnki.1001-7372.2025.08.014).
-- *2024.08*: &nbsp;🎉🎉 New paper accepeted by [Resources, Conservation and Recycling](https://www.sciencedirect.com/science/article/pii/S092134492400421X).
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
