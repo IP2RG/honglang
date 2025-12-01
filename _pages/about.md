@@ -33,12 +33,12 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 # 📝 Publications
 
 **2025**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Internal Journal of Pavement Engineering</div><img src='images/IJPE_PAVEMENTTYPE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE_PAVEMENTTYPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automated Image-level Pavement Type Recognition on Cross-regional Data Using a Multi-feature Fusion Network](https://doi.org/10.1080/10298436.2025.2569612)
 
-**Hong Lang**; Zhen Chen**; JinSong Qian**; Aidi Wang; Yichuan Peng; Hao Du
+**Hong Lang**; Zhen Chen*; JinSong Qian*; Aidi Wang; Yichuan Peng; Hao Du
 
 **Topic**
 - Multi-Modal Sensing and Field Experimentation
@@ -113,4 +113,4 @@ Zhen Chen; Yingying Xing*; Kexin Fang; **Hong Lang**; YiChuan Peng; Hongwei Wang
 - *2023* Shanghai Highway & Transportation Society, Member
 
 # 🐾 Visitor Map
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=dmeaCNOYh5_-9OXyurX3o0KHtzbB61-K6NVXU60pbNU&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=tt&d=dmeaCNOYh5_-9OXyurX3o0KHtzbB61-K6NVXU60pbNU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
