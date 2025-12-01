@@ -43,7 +43,6 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 - *2025.04*: &nbsp;📃 New paper accepeted by [Journal of the Transportation Research Record](https://journals.sagepub.com/home/trr).
 - *2024.12*: &nbsp;🌏 New abstract accepeted by [ASCE International Airfield & Highway Pavements Conference](https://www.asce.org/education-and-events/events/meetings/ictd-pavements-2025).
 - *2024.11*: &nbsp;📃 New paper accepeted by [ASCE Journal of Transportation Engineering, Part A: Systems](https://ascelibrary.org/journal/jtepbs).
-- *2024.10*: &nbsp;📃 New paper accepeted by [Sensors](https://www.mdpi.com/journal/sensors).
 - *2024.06*: &nbsp;📃 New paper accepeted by [Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction).
 - *2024.03*: &nbsp;📃 New paper accepeted by [ASCE Journal of Computing in Civil Engineering](https://ascelibrary.org/journal/jccee5).
 - *2024.02*: &nbsp;📃 New paper accepeted by [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/document/11024188).
@@ -70,6 +69,17 @@ Hong Lang; Zhen Chen*; JinSong Qian*; Aidi Wang; Yichuan Peng; Hao Du
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of the Transportation Research Record</div><img src='images/TRR_MIXDESIGN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Designing Asphalt Concrete Mixtures Based on Balanced Mix Design Requirements Utilizing A Two-Step Approach](https://journals.sagepub.com/doi/full/10.1177/03611981251344912)
+
+Hong Lang*; Imad L. Al-Qadi; Uthman Mohammed Ali
+
+**Topic**
+- AI-driven Decision Support
+</div>
+</div>
 
 
 **2024**
