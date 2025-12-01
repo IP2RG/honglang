@@ -33,7 +33,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 # 📝 Publications
 
 **2025**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Internal Journal of Pavement Engineering</div><img src='images/ef_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Internal Journal of Pavement Engineering</div><img src='images/IJPE_PAVEMENTTYPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automated Image-level Pavement Type Recognition on Cross-regional Data Using a Multi-feature Fusion Network](https://doi.org/10.1080/10298436.2025.2569612)
@@ -46,7 +46,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 </div>
 
 **2024**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/RCR1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/ASCE_Extreme Weather.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring the Impact of Extreme Weather on Urban Road Network Based on Percolation Theory](https://www.sciencedirect.com/science/article/pii/S092134492400421X)
