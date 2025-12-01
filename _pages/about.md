@@ -38,7 +38,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 
 [Automated Image-level Pavement Type Recognition on Cross-regional Data Using a Multi-feature Fusion Network](https://doi.org/10.1080/10298436.2025.2569612)
 
-**Hong Lang**; Zhen Chen*; JinSong Qian*; Aidi Wang; Yichuan Peng; Hao Du
+**Hong Lang**; Zhen Chen**; JinSong Qian**; Aidi Wang; Yichuan Peng; Hao Du
 
 **Topic**
 - Multi-Modal Sensing and Field Experimentation
@@ -46,12 +46,12 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 </div>
 
 **2024**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Resources, Conservation and Recycling</div><img src='images/ASCE_Extreme Weather.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Transportation Engineering, Part A: Systems</div><img src='images/ASCE_Extreme Weather.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring the Impact of Extreme Weather on Urban Road Network Based on Percolation Theory](https://www.sciencedirect.com/science/article/pii/S092134492400421X)
 
-Zhen Chen; Yingying Xing; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
+Zhen Chen; Yingying Xing*; Kexin Fang; **Hong Lang**; YiChuan Peng; Hongwei Wang
 
 **Topic**
 - CAV Readiness and Climate-Resilient Infrastructure
@@ -113,4 +113,4 @@ Zhen Chen; Yingying Xing; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 - *2023* Shanghai Highway & Transportation Society, Member
 
 # 🐾 Visitor Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tMl7ri3Q2RqfJWNCZtcnS59LlFoNCK1puzjt-BhZgk4&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=W-ssUQRP57r9S9FGscOMo9WP8W7Gr9lafq3GkW7y4XM"></script>
