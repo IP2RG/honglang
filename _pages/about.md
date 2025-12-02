@@ -67,6 +67,18 @@ Hong Lang; Zhen Chen\*; Jinsong Qian\*; Aidi Wang; Yichuan Peng; Hao Du
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Computing in Civil Engineering</div><img src='images/ASCE_LIDARREVIEW.bmp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LiDAR-Driven Innovations in PavementDistress Detection: A Review](https://doi.org/10.1061/JCCEE5.CPENG-6662)
+
+ Yuhang Si\$, Hong Lang\$, Jinsong Qian\*, and Zheng Zou 
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of the Transportation Research Record</div><img src='images/TRR_MIXDESIGN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
