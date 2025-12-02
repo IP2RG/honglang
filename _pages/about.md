@@ -128,8 +128,8 @@ Zhen Chen; Yingying Xing*; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 <span class='anchor' id='-education-background'></span>
 # 📖 Education Background
 - *2016.09 - 2021.06*, Ph.D., Transportation Engineering (Supervisor: [Prof. Jian John Lu](https://tjjt.tongji.edu.cn/szdw1/jsml2/zhjtxxykzgcx1/lj.htm)), [Tongji University](https://en.tongji.edu.cn), Shanghai, China
-- *2022.12 - 2023.11*, Visiting Scholar, Information Science. ([School of Information Science](https://ischool.illinois.edu/)), [University of Illinois Urbana-Champaign](https://illinois.edu/), Illinois, USA
-- *2014.09 - 2018.07*, B.E., Measurement and Control Technology & Instrument. [Tianjin University of Science & Technology](https://en.tust.edu.cn/), Tianjin, China
+- *2022.12 - 2023.02*, Visiting Scholar, Information Science. ([School of Information Science](https://ischool.illinois.edu/)), [University of Illinois Urbana-Champaign](https://illinois.edu/), Illinois, USA
+- *2012.09 - 2016.07*, B.E., Measurement and Control Technology & Instrument. [Tianjin University of Science & Technology](https://en.tust.edu.cn/), Tianjin, China
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
