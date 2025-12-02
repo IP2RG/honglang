@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-你好 (Nǐ hǎo), Hello, Hola, Bonjour, Hallo, こんにちは, 안녕하세요, مرحباً, Ciao, Привет.
-
 I am currently a postdoctoral research associate at the [Department of Civil and Environmental Engineering](https://cee.illinois.edu/) and [Illinois Center for Transportation](https://ict.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), while closely collaborating with the [Illinois Department of Transportation (IDOT)](https://idot.illinois.gov/). I was a research associate professor/postodoctoral research fellow at the [Transportation Research Institute](https://trit.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn).
 
 I obtained both my PhD and Bachelor's degrees in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort.
