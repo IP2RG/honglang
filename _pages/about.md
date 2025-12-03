@@ -25,11 +25,12 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2025.12*: &nbsp;🌏 Hong will present a topic about *Multimodal Infrastructure Intelligence: Measurement, Data, and Methods*, Thursday, Dec 4, 2025, 6:00–8:00 PM (ET), CEEB 3017, UIUC.
 - *2025.11*: &nbsp;🌏 TRBAM-26-02766（Lecture）will be presented at *Insights from LiDAR: Applications for Infrastructure Assessment*, Mon, Jan 12, 2026, 1:30–3:15 PM (ET), Room 202A, Convention Center, Washington, DC, USA.
 - *2025.10*: &nbsp;🌏 TRBAM-26-02571 (Lecture) will be presented at *Implementation-Focused Research on Asphalt Materials*, Tue, Jan 13, 2026, 4:00–5:45 PM (ET), Salon AB, Convention Center, Washington, DC, USA.
 - *2025.10*: &nbsp;🌏 TRBAM-26-01331 (Poster) will be presented at *Pavement Functional Condition Evaluation and Modeling*, Wed, Jan 14, 2026, 4:00–5:45 PM (ET), Hall A, Convention Center, Washington, DC, USA.
 - *2025.09*: &nbsp;📃 New paper accepeted by [Internal Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
-- *2025.09*: &nbsp;🎉 I was awarded by Scholarship and Teaching for Engineering Postdocs (STEP)[University of Illinois Urbana-Champaign](https://grainger.illinois.edu/research/postdoc-opportunities/STEP).
+- *2025.09*: &nbsp;🎉 Hong was awarded by Scholarship and Teaching for Engineering Postdocs (STEP)[University of Illinois Urbana-Champaign](https://grainger.illinois.edu/research/postdoc-opportunities/STEP).
 - *2025.08*: &nbsp;📃 New paper accepeted by [Construction and Building Materials](https://www.sciencedirect.com/journal/construction-and-building-materials).
 - *2025.08*: &nbsp;📃 New paper accepeted by [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578).
 - *2025.08*: &nbsp;🌏 New extended abstract accepeted by [12th International Conference on Bearing Capacity of Roads, Railways, and Airfields](https://bcrra.si/).
@@ -72,7 +73,7 @@ Hong Lang; Zhen Chen\*; Jinsong Qian\*; Aidi Wang; Yichuan Peng; Hao Du
 
 [LiDAR-Driven Innovations in PavementDistress Detection: A Review](https://doi.org/10.1061/JCCEE5.CPENG-6662)
 
- Yuhang Si\$, Hong Lang\$, Jinsong Qian\*, and Zheng Zou 
+Yuhang Si¹, Hong Lang¹, Jinsong Qian\*, and Zheng Zou 
 
 **Topic**
 - Multi-Modal Sensing and Field Experimentation
