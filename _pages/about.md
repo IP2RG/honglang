@@ -115,7 +115,7 @@ Zhen Chen; Yingying Xing*; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 Zheng Zou, Hong Lang*, Yuexin Lou, Jian Lu
 
 **Topic**
-- CAV Readiness and Climate-Resilient Infrastructure
+- Multi-Modal Sensing and Field Experimentation
 </div>
 </div>
 
