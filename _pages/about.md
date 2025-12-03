@@ -94,6 +94,18 @@ Hong Lang*; Imad L. Al-Qadi; Uthman Mohammed Ali
 
 
 **2024**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/AIC_CURB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coarse-to-refined road curb segmentation from MLS point clouds](https://doi.org/10.1016/j.autcon.2024.105586)
+
+Zheng Zou, Hong Lang*, Jian Lu, Qinglu Ma
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Transportation Engineering, Part A: Systems</div><img src='images/ASCE_Extreme Weather.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
