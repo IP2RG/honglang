@@ -106,6 +106,18 @@ Zheng Zou, Hong Lang*, Jian Lu, Qinglu Ma
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems</div><img src='images/IEEE_TWOSTEP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Two-Step Method of Pavement Pothole and Raveling Detection and Segmentation Based on Deep Learning](https://doi.org/10.1109/TITS.2023.3340340)
+
+Zheng Zou, Hong Lang*, Jian Lu, Qinglu Ma
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Transportation Engineering, Part A: Systems</div><img src='images/ASCE_Extreme Weather.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -125,6 +137,19 @@ Zhen Chen; Yingying Xing*; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 [Plane-based global registration for pavement 3D reconstruction using hybrid solid-state LiDAR point cloud](https://doi.org/10.1016/j.autcon.2023.104907)
 
 Zheng Zou, Hong Lang*, Yuexin Lou, Jian Lu
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
+**2021**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Computing in Civil Engineering</div><img src='images/ASCE_MULTISCALE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pavement Cracking Detection and Classification Based on 3D Image Using Multiscale Clustering Model](https://doi.org/10.1061/(ASCE)CP.1943-5487.0000910)
+
+Hong Lang; Jian John Lu; Yuexin Lou; and Shendi Chen
 
 **Topic**
 - Multi-Modal Sensing and Field Experimentation
