@@ -106,6 +106,19 @@ Zhen Chen; Yingying Xing*; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 </div>
 </div>
 
+**2023**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/AIC_PLANER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Plane-based global registration for pavement 3D reconstruction using hybrid solid-state LiDAR point cloud](https://doi.org/10.1016/j.autcon.2023.104907)
+
+Zheng Zou, Hong Lang*, Yuexin Lou, Jian Lu
+
+**Topic**
+- CAV Readiness and Climate-Resilient Infrastructure
+</div>
+</div>
+
 <span class='anchor' id='-conference-presentations'></span>
 # 🗺️ Conference Presentations
 **2026**
