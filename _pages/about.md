@@ -100,7 +100,7 @@ Hong Lang*; Imad L. Al-Qadi; Uthman Mohammed Ali
 
 [Augmented concrete crack segmentation: Learning complete representation to defend background interference in concrete pavements](https://doi.org/10.1109/TIM.2024.3378205)
 
-Hong Lang, Ye Yuan, Jiang Chen, Shuo Ding, Jian John Lu, Yong Zhangu
+Hong Lang, Ye Yuan*, Jiang Chen, Shuo Ding, Jian John Lu, Yong Zhangu
 
 **Topic**
 - Multi-Modal Sensing and Field Experimentation
