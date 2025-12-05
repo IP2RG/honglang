@@ -29,7 +29,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 - *2025.11*: &nbsp;🌏 TRBAM-26-02766（Lecture）will be presented at *Insights from LiDAR: Applications for Infrastructure Assessment*, Mon, Jan 12, 2026, 1:30–3:15 PM (ET), Room 202A, Convention Center, Washington, DC, USA.
 - *2025.10*: &nbsp;🌏 TRBAM-26-02571 (Lecture) will be presented at *Implementation-Focused Research on Asphalt Materials*, Tue, Jan 13, 2026, 4:00–5:45 PM (ET), Salon AB, Convention Center, Washington, DC, USA.
 - *2025.10*: &nbsp;🌏 TRBAM-26-01331 (Poster) will be presented at *Pavement Functional Condition Evaluation and Modeling*, Wed, Jan 14, 2026, 4:00–5:45 PM (ET), Hall A, Convention Center, Washington, DC, USA.
-- *2025.09*: &nbsp;📃 New paper accepeted by [Internal Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
+- *2025.09*: &nbsp;📃 New paper accepeted by [Internatiaoal Journal of Pavement Engineering](https://www.tandfonline.com/journals/gpav20).
 - *2025.09*: &nbsp;🎉 Hong was awarded by Scholarship and Teaching for Engineering Postdocs (STEP)[University of Illinois Urbana-Champaign](https://grainger.illinois.edu/research/postdoc-opportunities/STEP).
 - *2025.08*: &nbsp;📃 New paper accepeted by [Construction and Building Materials](https://www.sciencedirect.com/journal/construction-and-building-materials).
 - *2025.08*: &nbsp;📃 New paper accepeted by [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578).
@@ -89,11 +89,24 @@ Hong Lang*; Imad L. Al-Qadi; Uthman Mohammed Ali
 
 **Topic**
 - AI-driven Decision Support
+- [ICT Optimal Mix Design Tool](https://ict.illinois.edu/news/newsletters/more-newsletters/may-2025/ict-develops-ai-tool-for-optimal-mix-design-of-flexible-roadways)  
 </div>
 </div>
 
 
 **2024**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Instrumentation and Measurement</div><img src='images/IEEE_REPRESENTATION.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Augmented concrete crack segmentation: Learning complete representation to defend background interference in concrete pavements](https://doi.org/10.1109/TIM.2024.3378205)
+
+Hong Lang, Ye Yuan, Jiang Chen, Shuo Ding, Jian John Lu, Yong Zhangu
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/AIC_CURB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -112,6 +125,18 @@ Zheng Zou, Hong Lang*, Jian Lu, Qinglu Ma
 [The Two-Step Method of Pavement Pothole and Raveling Detection and Segmentation Based on Deep Learning](https://doi.org/10.1109/TITS.2023.3340340)
 
 Zheng Zou, Hong Lang*, Jian Lu, Qinglu Ma
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Computing in Civil Engineering</div><img src='images/ASCE_PDSNET2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automatic Pixel-Level Segmentation of Multiple Pavement Distresses and Surface Design Features with PDSNet II](https://doi.org/10.1061/JCCEE5.CPENG-5894)
+
+Hong Lang, Jinsong Qian, Ye Yuan*, Jiang Chen, Yingying Xing, Aidi Wang
 
 **Topic**
 - Multi-Modal Sensing and Field Experimentation
@@ -137,6 +162,43 @@ Zhen Chen; Yingying Xing*; Kexin Fang; Hong Lang; YiChuan Peng; Hongwei Wang
 [Plane-based global registration for pavement 3D reconstruction using hybrid solid-state LiDAR point cloud](https://doi.org/10.1016/j.autcon.2023.104907)
 
 Zheng Zou, Hong Lang*, Yuexin Lou, Jian Lu
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>International Journal of Pavement Engineering</div><img src='images/IJPE_PCSNET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automated crack segmentation on 3D asphalt surfaces with richer attention and hybrid pyramid structures](https://doi.org/10.1080/10298436.2023.2246097)
+
+Shuo Ding, Hong Lang*, Jiang Chen, Ye Yuan, Jian Lu
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
+**2022**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Transportation Engineering, Part B: Pavements</div><img src='images/ASCE_PCDNET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PCDNet: Seed operation–based deep learning model for pavement crack detection on 3D asphalt surface](https://doi.org/10.1061/JPEODX.0000367)
+
+Tian Wen, Hong Lang*, Shuo Ding, Jian John Lu, Yingying Xing
+
+**Topic**
+- Multi-Modal Sensing and Field Experimentation
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>Journal of Transportation Engineering, Part B: Pavements</div><img src='images/ASCE_RUTTING.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Line-structured light rut detection of asphalt pavement with pavement markings interference under strong light](https://doi.org/10.1061/JPEODX.0000341)
+
+Shuo Ding, Yingying Xing, Hong Lang, Tian Wen, Jian John Lu*
 
 **Topic**
 - Multi-Modal Sensing and Field Experimentation
