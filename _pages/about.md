@@ -24,7 +24,7 @@ I obtained both my PhD and Bachelor's degrees in Transportation Engineering from
 My research focuses on **Artificial Intelligence for Infrastructure**, with emphasis on **Multi-Modal Sensing and Field Experimentation**, **Physics-Informed ML for Civil Systems**, **AI-driven Decision Support**, and **CAV Readiness and Climate-Resilient Infrastructure**.
 
 <span class='anchor' id='-news'></span>
-# 🔥 News
+# 🔥 News & Updates
 - *2026.02*: &nbsp;🎉 Hong earned the FAA Remote Pilot Certificate (Part 107) via IACRA: [Integrated Airman Certification and Rating Application (IACRA)](https://iacra.faa.gov).
 - *2025.12*: &nbsp;🌏 Hong will give a talk on *Multimodal Infrastructure Intelligence: Measurement, Data, and Methods*, Thu, Dec 4, 2025, 6:00–8:00 PM (CT), CEEB 3017, UIUC.
 - *2026.01*: &nbsp;🌏 TRBAM-26-02766 (Lecture) will be presented at *Insights from LiDAR: Applications for Infrastructure Assessment*, Mon, Jan 12, 2026, 1:30–3:15 PM (ET), Room 202A, Convention Center, Washington, DC, USA.
@@ -268,6 +268,10 @@ Hong Lang, Jian John Lu, Yuexin Lou*, and Shendi Chen
 - *2021* Outstanding Graduate, Tongji University
 - *2019* First Prize (6th National Ranking), China Graduate Mathematical Modeling Competition
 - *2018* Second Prize, China Graduate Mathematical Modeling Competition
+
+<span class='anchor' id='-certifications-and-licenses'></span>
+# 📜 Certifications & Licenses
+- *2026* FAA Remote Pilot Certificate (Part 107), Federal Aviation Administration (FAA) (UAS field operations)
 
 <span class='anchor' id='-professional-services'></span>
 # 🛣️ Professional Services
