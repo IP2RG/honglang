@@ -197,7 +197,7 @@ Tian Wen, Hong Lang*, Shuo Ding, Jian John Lu, and Yingying Xing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>Journal of Transportation Engineering, Part B: Pavements</div><img src='images/ASCE_RUTTING.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Transportation Engineering, Part B: Pavements</div><img src='images/ASCE_RUTTING.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Line-structured light rut detection of asphalt pavement with pavement markings interference under strong light](https://doi.org/10.1061/JPEODX.0000341)
@@ -280,6 +280,3 @@ Hong Lang, Jian John Lu, Yuexin Lou*, and Shendi Chen
 - *2024* Journal of Transport Information and Safety, Associate Editor
 - *2024* China Highway & Transportation Society, Expert Committee
 - *2023* Shanghai Highway & Transportation Society, Member
-
-# 🐾 Visitor Map
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=300&t=tt&d=dmeaCNOYh5_-9OXyurX3o0KHtzbB61-K6NVXU60pbNU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
