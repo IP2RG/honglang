@@ -47,7 +47,7 @@ Aidi Wang, Hong Lang*, Jiang Chen, Zheng Zou, Yajie Zou, and Jinsong Qian
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE PHYCONTACTGAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE PHYCONTACTGAN .png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D Tire–Pavement Contact Stresses: Physics-Informed Prediction Approach](https://doi.org/10.1080/10298436.2026.2621970)
