@@ -162,4 +162,4 @@ compress_html:
   ignore:
     envs: development
 
-google_analytics: G-71DCP9EFXW
+google_analytics_id: G-71DCP9EFXW
