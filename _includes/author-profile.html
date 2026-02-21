@@ -214,9 +214,13 @@
       {% if author.orcid %}
         <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
-      <a href="{{ '/files/Hong_Lang_CV.pdf' | relative_url }}" target="_blank" rel="noopener">
-        <i class="fas fa-file-pdf" aria-hidden="true"></i>
-      </a>
+      <div style="margin-top: 0.6em;">
+        <a class="btn btn--inverse btn--small"
+           href="{{ '/files/Hong_Lang_CV.pdf' | relative_url }}"
+           target="_blank" rel="noopener">
+          CV
+        </a>
+      </div>
       {% if author.impactstory %}
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>
       {% endif %}
