@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hong Lang (郎洪)"
+  name             : "Hong Lang"
   avatar           : "images/profile_image.jpg"
   bio              : "Postdoc at UIUC, PhD in Transportation at Tongji"
   location         : "Illinois, USA"
