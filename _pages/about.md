@@ -25,11 +25,12 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 
 <span class='anchor' id='-news'></span>
 # 🔥 News & Updates
+- *2026.03*: &nbsp;🌏 Hong will give a talk on *Road Alignment Extraction from MLS Point Clouds* at the RPUG Conference [Road Profile User's Group](https://rpug.org/meetings/rpug-2026-conference/), April 28th to May 1st, 2026, Pittsburgh, PA, USA.
 - *2026.02*: &nbsp;🎉 Hong earned the FAA Remote Pilot Certificate (Part 107) via IACRA: [Integrated Airman Certification and Rating Application (IACRA)](https://iacra.faa.gov).
-- *2025.12*: &nbsp;🌏 Hong will give a talk on *Multimodal Infrastructure Intelligence: Measurement, Data, and Methods*, Thu, Dec 4, 2025, 6:00–8:00 PM (CT), CEEB 3017, UIUC.
 - *2026.01*: &nbsp;🌏 TRBAM-26-02766 (Lecture) will be presented at *Insights from LiDAR: Applications for Infrastructure Assessment*, Mon, Jan 12, 2026, 1:30–3:15 PM (ET), Room 202A, Convention Center, Washington, DC, USA.
 - *2026.01*: &nbsp;🌏 TRBAM-26-02571 (Lecture) will be presented at *Implementation-Focused Research on Asphalt Materials*, Tue, Jan 13, 2026, 4:00–5:45 PM (ET), Salon AB, Convention Center, Washington, DC, USA.
 - *2026.01*: &nbsp;🌏 TRBAM-26-01331 (Poster) will be presented at *Pavement Functional Condition Evaluation and Modeling*, Wed, Jan 14, 2026, 4:00–5:45 PM (ET), Hall A, Convention Center, Washington, DC, USA.
+- *2025.12*: &nbsp;🌏 Hong will give a talk on *Multimodal Infrastructure Intelligence: Measurement, Data, and Methods*, Thu, Dec 4, 2025, 6:00–8:00 PM (CT), CEEB 3017, UIUC.
 - *2025.09*: &nbsp;🎉 Hong received the Scholarship and Teaching for Engineering Postdocs (STEP) Award, [University of Illinois Urbana-Champaign](https://grainger.illinois.edu/research/postdoc-opportunities/STEP).
 
 <span class='anchor' id='-publications'></span>
