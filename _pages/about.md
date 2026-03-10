@@ -34,7 +34,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 - *2025.09*: &nbsp;🎉 Hong received the Scholarship and Teaching for Engineering Postdocs (STEP) Award, [University of Illinois Urbana-Champaign](https://grainger.illinois.edu/research/postdoc-opportunities/STEP).
 
 <span class='anchor' id='-publications'></span>
-# 📝 Publications (* as corresponding author; $^{\dagger}$ as co-first author)
+# 📝 Publications ({\small (* as corresponding author; $^{\dagger}$ as co-first author)})
 **2026**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems</div><img src='images/IEEE 3D Reconstruction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -248,8 +248,8 @@ Hong Lang, Jian John Lu, Yuexin Lou*, and Shendi Chen
 <span class='anchor' id='-work-experience'></span>
 # 💻 Work Experience
 - *2024.07 - Present*, Postdoctoral Research Associate (Supervisor: [Prof. Imad L. Al-Qadi](https://cee.illinois.edu/directory/profile/alqadi)), [University of Illinois Urbana-Champaign](https://illinois.edu/), Illinois, USA.
-- *2023.03 - 2024.07*, Research Associate Professor (Transportation Research Institute, [Tongji University](https://en.tongji.edu.cn), Shanghai, China.
-- *2021.10 - 2024.07*, Postdoctoral Research Associate (Supervisor: [Jian John Lu](https://tjjt.tongji.edu.cn/szdw1/jsml2/zhjtxxykzgcx1/lj.htm)), [Tongji University](https://en.tongji.edu.cn), Shanghai, China.
+- *2024.03 - 2024.07*, Research Associate Professor (Transportation Research Institute, [Tongji University](https://en.tongji.edu.cn), Shanghai, China.
+- *2021.10 - 2024.03*, Postdoctoral Research Associate (Supervisor: [Jian John Lu](https://tjjt.tongji.edu.cn/szdw1/jsml2/zhjtxxykzgcx1/lj.htm)), [Tongji University](https://en.tongji.edu.cn), Shanghai, China.
 - *2021.10 - 2024.07*, Senior Research Scientist, [Shanghai PRES Road Traffic Technology Co., Ltd](http://www.shanghai-pres.com/), Shanghai, China.
 - *2017.01 - 2021.01*, Research Scientist, [Shanghai PRES Road Traffic Technology Co., Ltd](http://www.shanghai-pres.com/), Shanghai, China.
 
