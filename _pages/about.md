@@ -39,7 +39,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems</div><img src='images/IEEE 3D Reconstruction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Automated Pavement Pothole Detection and Multi-Dimensional Indicators Extraction Based on Deep Learning and 3D Reconstruction](http://dx.doi.org/10.2139/ssrn.4885302)
+[Automated Pavement Pothole Detection and Multi-Dimensional Indicators Extraction Based on Deep Learning and 3D Reconstruction](http://dx.doi.org/10.1109/TITS.2026.3665030)
 
 Aidi Wang, Hong Lang*, Jiang Chen, Zheng Zou, Yajie Zou, and Jinsong Qian
 
