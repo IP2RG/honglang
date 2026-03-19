@@ -34,7 +34,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 - *2025.09*: &nbsp;🎉 Hong received the Scholarship and Teaching for Engineering Postdocs (STEP) Award, [University of Illinois Urbana-Champaign](https://grainger.illinois.edu/research/postdoc-opportunities/STEP).
 
 <span class='anchor' id='-publications'></span>
-# 📝 Publications ({\small (* as corresponding author; $^{\dagger}$ as co-first author)})
+# 📝 Publications ((* as corresponding author; $^{\dagger}$ as co-first author))
 **2026**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems</div><img src='images/IEEE 3D Reconstruction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
