@@ -34,7 +34,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 - *2025.09*: &nbsp;🎉 Hong received the Scholarship and Teaching for Engineering Postdocs (STEP) Award, [University of Illinois Urbana-Champaign](https://grainger.illinois.edu/research/postdoc-opportunities/STEP).
 
 <span class='anchor' id='-publications'></span>
-# 📝 Publications ((* as corresponding author; $^{\dagger}$ as co-first author))
+# 📝 Publications (* as corresponding author; $^{\dagger}$ as co-first author)
 **2026**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems</div><img src='images/IEEE 3D Reconstruction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,7 +44,7 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 Aidi Wang, Hong Lang*, Jiang Chen, Zheng Zou, Yajie Zou, and Jinsong Qian
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Pothole quantification indicators, detection and segmentation, deep learning, 3D reconstruction, 3D line laser technology
 </div>
 </div>
 
@@ -56,7 +56,7 @@ Aidi Wang, Hong Lang*, Jiang Chen, Zheng Zou, Yajie Zou, and Jinsong Qian
 Hong Lang\*; William D. Villamil and Imad L. Al-Qadi
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Physics-informed approach, tire-pavement interaction, 3D contact stress, conditional generative adversarial network, finite element analysis
 </div>
 </div>
 
@@ -73,6 +73,18 @@ Hong Lang, Zhen Chen\*, Jinsong Qian\*, Aidi Wang, Yichuan Peng, and Hao Du
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Transportation Science and Technology</div><img src='images/IJTSC_DESCRIPTORS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Selecting and optimizing distress feature descriptors from multi-source images for pavement distress classification](https://doi.org/10.1080/10298436.2025.2569612)
+
+Aidi Wang, Hong Lang\*, Yichuan Peng, Xinting Chen, Jinsong Qian\*
+
+**Topic**
+- Pavement distress detection, feature descriptors selection, multi-source image texture analysis, machine learning, 3D line laser technology
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Computing in Civil Engineering</div><img src='images/ASCE_LIDARREVIEW.bmp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,7 +93,7 @@ Hong Lang, Zhen Chen\*, Jinsong Qian\*, Aidi Wang, Yichuan Peng, and Hao Du
 Yuhang Si¹, Hong Lang¹, Jinsong Qian\*, and Zheng Zou 
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- LiDAR point cloud, mobile laser scanning, pavement distress detection, deep learning
 </div>
 </div>
 
@@ -93,6 +105,7 @@ Yuhang Si¹, Hong Lang¹, Jinsong Qian\*, and Zheng Zou
 Hong Lang*, Imad L. Al-Qadi, and Uthman Mohammed Ali
 
 **Topic**
+- Infrastructure, materials, asphalt mixture evaluation and performance, asphalt materials, asphalt mixture performance tests, rut testing
 - AI-driven Decision Support
 - [ICT Optimal Mix Design Tool](https://ict.illinois.edu/news/newsletters/more-newsletters/may-2025/ict-develops-ai-tool-for-optimal-mix-design-of-flexible-roadways)  
 </div>
@@ -108,7 +121,7 @@ Hong Lang*, Imad L. Al-Qadi, and Uthman Mohammed Ali
 Hong Lang, Ye Yuan*, Jiang Chen, Shuo Ding, Jian John Lu, and Yong Zhangu
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Computer vision, intelligent transportation system (ITS), intelligent vehicles, machine learning, pavement distress
 </div>
 </div>
 
@@ -120,7 +133,7 @@ Hong Lang, Ye Yuan*, Jiang Chen, Shuo Ding, Jian John Lu, and Yong Zhangu
 Zheng Zou, Hong Lang*, Jian Lu, and Qinglu Ma
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Road curb segmentation, 2D projection, universal conic section model, global curb verification, unorganized MLS point clouds
 </div>
 </div>
 
@@ -132,7 +145,7 @@ Zheng Zou, Hong Lang*, Jian Lu, and Qinglu Ma
 Aidi Wang, Hong Lang*, Zhen Chen, Yichuan Peng, Shuo Ding, and Jian John Lu
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Pothole and raveling, detection and segmentation, two-step method, 3D line laser technology, deep learning
 </div>
 </div>
 
@@ -144,7 +157,7 @@ Aidi Wang, Hong Lang*, Zhen Chen, Yichuan Peng, Shuo Ding, and Jian John Lu
 Hong Lang, Jinsong Qian, Ye Yuan*, Jiang Chen, Yingying Xing, and Aidi Wang
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Intelligent road facilities, deep learning, multifeature fusion, attention mechanism, pavement distress segmentation
 </div>
 </div>
 
@@ -156,7 +169,7 @@ Hong Lang, Jinsong Qian, Ye Yuan*, Jiang Chen, Yingying Xing, and Aidi Wang
 Zhen Chen, Yingying Xing*, Kexin Fang, Hong Lang, YiChuan Peng, and Hongwei Wang
 
 **Topic**
-- CAV Readiness and Climate-Resilient Infrastructure
+- Extreme weather, traffic percolation, traffic connectivity, bottleneck identification
 </div>
 </div>
 
@@ -169,7 +182,19 @@ Zhen Chen, Yingying Xing*, Kexin Fang, Hong Lang, YiChuan Peng, and Hongwei Wang
 Zheng Zou, Hong Lang*, Yuexin Lou, and Jian Lu
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Pavement 3D reconstruction, plane-based global registration, hybrid solid-state LiDAR point cloud 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>International Journal of Pavement Engineering</div><img src='images/IJPE_PDSNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automated pavement distress segmentation on asphalt surfaces using a deep learning network](https://doi.org/10.1080/10298436.2022.2027414)
+
+Tian Wen, Shuo Ding, Hong Lang*, Jian John Lu, Ye Yuan, Yichuan Peng, Jiang Chen, Aidi Wang
+
+**Topic**
+- Pavement distress, deep learning, convolutional neural networks, semantic segmentation
 </div>
 </div>
 
@@ -181,7 +206,7 @@ Zheng Zou, Hong Lang*, Yuexin Lou, and Jian Lu
 Shuo Ding, Hong Lang*, Jiang Chen, Ye Yuan, and Jian Lu
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Pavement crack detection, pixel-level segmentation, attention mechanism, pyramid feature fusion, crack geometry reconstruction
 </div>
 </div>
 
@@ -194,7 +219,7 @@ Shuo Ding, Hong Lang*, Jiang Chen, Ye Yuan, and Jian Lu
 Tian Wen, Hong Lang*, Shuo Ding, Jian John Lu, and Yingying Xing
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Pavement crack, deep learning, 3D pavement data, convolutional neural networks, improved crack seed algorithm
 </div>
 </div>
 
@@ -206,7 +231,31 @@ Tian Wen, Hong Lang*, Shuo Ding, Jian John Lu, and Yingying Xing
 Shuo Ding, Yingying Xing, Hong Lang, Tian Wen, and Jian John Lu*
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Pavement distress, line-structured rut detection, pavement markings, rut depth, pavement maintenance
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Advanced Transportation</div><img src='images/JAT_GNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The improvement of automated crack segmentation on concrete pavement with graph network](https://doi.org/10.1155/2022/2238095)
+
+Jiang Chen, Ye Yuan, Hong Lang*, Shuo Ding, Jian John Lu
+
+**Topic**
+- Concrete pavement crack, automated crack segmentation, deep learning, graph neural network, feature fusion, 3D pavement dataset
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE_TEXTURE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A portable measurement system for pavement surface macrotexture–a case study in China](https://doi.org/10.1061/JPEODX.0000341)
+
+Yuexin Lou, Jian John Lu*, Shengdi Chen, Hong Lang
+
+**Topic**
+- Macrotexture depth, portable system, kalmanﬁlter, mean proﬁle depth, veriﬁcation experiment, comparative experiment
 </div>
 </div>
 
@@ -219,7 +268,7 @@ Shuo Ding, Yingying Xing, Hong Lang, Tian Wen, and Jian John Lu*
 Hong Lang, Jian John Lu, Yuexin Lou*, and Shendi Chen
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Multiscale clustering model, 3D pavement data, classification of netted cracks, pavement protective maintenance
 </div>
 </div>
 
