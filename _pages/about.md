@@ -69,7 +69,7 @@ Hong Lang\*; William D. Villamil and Imad L. Al-Qadi
 Hong Lang, Zhen Chen\*, Jinsong Qian\*, Aidi Wang, Yichuan Peng, and Hao Du
 
 **Topic**
-- Multi-Modal Sensing and Field Experimentation
+- Multi-features fusion, pavement type, convolutional neural network, pavement condition detection
 </div>
 </div>
 
@@ -125,18 +125,6 @@ Hong Lang, Ye Yuan*, Jiang Chen, Shuo Ding, Jian John Lu, and Yong Zhangu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/AIC_CURB.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Coarse-to-refined road curb segmentation from MLS point clouds](https://doi.org/10.1016/j.autcon.2024.105586)
-
-Zheng Zou, Hong Lang*, Jian Lu, and Qinglu Ma
-
-**Topic**
-- Road curb segmentation, 2D projection, universal conic section model, global curb verification, unorganized MLS point clouds
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems</div><img src='images/IEEE_TWOSTEP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -146,6 +134,18 @@ Aidi Wang, Hong Lang*, Zhen Chen, Yichuan Peng, Shuo Ding, and Jian John Lu
 
 **Topic**
 - Pothole and raveling, detection and segmentation, two-step method, 3D line laser technology, deep learning
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/AIC_CURB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coarse-to-refined road curb segmentation from MLS point clouds](https://doi.org/10.1016/j.autcon.2024.105586)
+
+Zheng Zou, Hong Lang*, Jian Lu, and Qinglu Ma
+
+**Topic**
+- Road curb segmentation, 2D projection, universal conic section model, global curb verification, unorganized MLS point clouds
 </div>
 </div>
 
@@ -186,7 +186,7 @@ Zheng Zou, Hong Lang*, Yuexin Lou, and Jian Lu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>International Journal of Pavement Engineering</div><img src='images/IJPE_PDSNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE_PDSNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automated pavement distress segmentation on asphalt surfaces using a deep learning network](https://doi.org/10.1080/10298436.2022.2027414)
@@ -198,7 +198,7 @@ Tian Wen, Shuo Ding, Hong Lang*, Jian John Lu, Ye Yuan, Yichuan Peng, Jiang Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">>International Journal of Pavement Engineering</div><img src='images/IJPE_PCSNET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Pavement Engineering</div><img src='images/IJPE_PCSNET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automated crack segmentation on 3D asphalt surfaces with richer attention and hybrid pyramid structures](https://doi.org/10.1080/10298436.2023.2246097)
@@ -211,7 +211,7 @@ Shuo Ding, Hong Lang*, Jiang Chen, Ye Yuan, and Jian Lu
 </div>
 
 **2022**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Transportation Engineering, Part B: Pavements</div><img src='images/ASCE_PCDNET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Transportation Engineering, Part B: Pavements</div><img src='images/ASCE_PCDNET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PCDNet: Seed operation–based deep learning model for pavement crack detection on 3D asphalt surface](https://doi.org/10.1061/JPEODX.0000367)
@@ -223,7 +223,7 @@ Tian Wen, Hong Lang*, Shuo Ding, Jian John Lu, and Yingying Xing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Transportation Engineering, Part B: Pavements</div><img src='images/ASCE_RUTTING.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASCE Journal of Transportation Engineering, Part B: Pavements</div><img src='images/ASCE_RUTTING.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Line-structured light rut detection of asphalt pavement with pavement markings interference under strong light](https://doi.org/10.1061/JPEODX.0000341)
