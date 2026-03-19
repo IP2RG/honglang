@@ -276,6 +276,7 @@ Hong Lang, Jian John Lu, Yuexin Lou*, and Shendi Chen
 # 🗺️ Conference Presentations
 **2026**
 - *2026.06*, Seasonal Load Spectra on Illinois Interstate Highways, [12th International Conference on Bearing Capacity of Roads, Railways, and Airfields](https://bcrra.si/), Ljubljana, Slovenia.
+- *2026.04*, Road Alignment Extraction from MLS Point Clouds* at the RPUG Conference [Road Profile User's Group](https://rpug.org/meetings/rpug-2026-conference/), Pittsburgh, PA, USA.
 - *2026.01*, Coarse‑to‑refined Road Alignment Extraction and Parameterization from MLS Point Clouds, [TRB 105th Annual Meeting of the Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/), Washington, D.C., USA.
 - *2026.01*, Hot‑Mix Asphalt Cracking Potential Prediction from Binder Rheological Parameters, [TRB 105th Annual Meeting of the Transportation Research Board](https://trb-annual-meeting.nationalacademies.org/), Washington, D.C., USA.
 
