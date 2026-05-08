@@ -36,6 +36,18 @@ My research focuses on **Artificial Intelligence for Infrastructure**, with emph
 <span class='anchor' id='-publications'></span>
 # 📝 Publications (* as corresponding author; $^{\dagger}$ as co-first author)
 **2026**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation in Construction</div><img src='images/AIC ROAD ALLIGNMENT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Coarse-to-refined road alignment extraction and parameterization from MLS point clouds](https://doi.org/10.1016/j.autcon.2026.106996)
+
+Xinting Chen, Hong Lang* , Zheng Zou, Yao Chen, and Yuming Jiang
+
+**Topic**
+- Mobile laser scanning, unstructured point cloud, horizontal alignment, road geometry, parametric extraction
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Intelligent Transportation Systems</div><img src='images/IEEE 3D Reconstruction.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
