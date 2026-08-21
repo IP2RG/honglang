@@ -17,11 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral research associate at the [Department of Civil and Environmental Engineering](https://cee.illinois.edu/) and [Illinois Center for Transportation](https://ict.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), while closely collaborating with the [Illinois Department of Transportation (IDOT)](https://idot.illinois.gov/). I was a research associate professor/postodoctoral research fellow at the [Transportation Research Institute](https://trit.tongji.edu.cn/) at [Tongji University](https://en.tongji.edu.cn).
+\textbf{Physical AI for Roadway Infrastructure — from the instrument to the agency decision.}
 
-I obtained my Ph.D. in Transportation Engineering from [School of Transportation](https://tjjt.tongji.edu.cn/English_Home/HOME.htm) at [Tongji University](https://en.tongji.edu.cn) in Shanghai, China, graduating with honor and the highest GPA in my cohort. I received my bachelor’s degree in Instrumentation Science and Measurement and have over 13 years of programming experience with a strong engineering foundation. I have completed five projects as an independent PI, including an NSFC-funded project, and have completed three IDOT projects. I am currently serving as PI on an additional IDOT project.
+I own the full measurement stack for the road itself: I design and calibrate the 3-D imaging and LiDAR–INS systems that
+acquire the data, develop physics-informed learning models that convert it into the variables transportation engineers
+design and program with — roadway alignment and geometry, surface condition and friction, tire–pavement contact
+stress — and deliver those models as tools that state DOTs run in production. My systems have been deployed on \textbf{50,000+ km} of highway, my tools are in use at the Illinois Center for Transportation, and I lead a \textbf{\$653\ K IDOT} project rebuilding the statewide Illinois Pavement Feedback System. Owning this chain end to end is what lets me move beyond describing a road’s current condition toward \textbf{predicting how it degrades}, linking measured geometry and
+friction to crash risk and preservation investment, and — because I own the statewide data substrate — extending it
+with vision-language and agent-based interfaces so engineers can query and act on network-level asset data directly.
 
-My research focuses on **Artificial Intelligence for Infrastructure**, with emphasis on **Multi-Modal Sensing and Field Experimentation**, **Physics-Informed ML for Civil Systems**, **AI-driven Decision Support**, and **CAV Readiness and Climate-Resilient Infrastructure**.
+\textit{Focus}: Mobile LiDAR \& 3-D measurement systems · Roadway geometry and alignment extraction · Physics-informed learning for
+infrastructure performance · Network-scale pavement data platforms and asset decision-support tools · Foundation models for
+cross-regional infrastructure data
+
+\textit{Record}: \$1.02 M\ as sole PI (IDOT, NSFC, provincial DOTs) and \$2.85 M\ as Co-PI / senior personnel · 43 peer-reviewed journal
+articles (IEEE T-ITS/TIM, Automation in Construction, TRR, ASCE) · 17 TRB papers · 7 patents · 2 national standards · 15+ students
+mentored
 
 <span class='anchor' id='-news'></span>
 # 🔥 News & Updates
